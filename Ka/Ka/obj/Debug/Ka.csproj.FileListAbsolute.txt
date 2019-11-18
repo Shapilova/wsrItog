@@ -1,0 +1,10 @@
+C:\Users\HOME-PC\Desktop\Ka\Ka\bin\Debug\Ka.exe.config
+C:\Users\HOME-PC\Desktop\Ka\Ka\bin\Debug\Ka.exe
+C:\Users\HOME-PC\Desktop\Ka\Ka\bin\Debug\Ka.pdb
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.csprojAssemblyReference.cache
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.Form1.resources
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.Properties.Resources.resources
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.csproj.GenerateResource.cache
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.exe
+C:\Users\HOME-PC\Desktop\Ka\Ka\obj\Debug\Ka.pdb
